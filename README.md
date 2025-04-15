@@ -7,6 +7,7 @@ The chatbot is accessible via Microsoft Teams.
 ## Overview
 
 ![image](https://github.com/user-attachments/assets/1a46ee01-eb5c-4a00-8565-341d19ed48d4)
+
 The image above shows the general flow of the chatbot. It starts by setting conditions based on the user's input in Microsoft Teams. If the message contains certain predefined phrases, it will trigger the chatbot.
 
 Once triggered, the chatbot presents users with two main options:
