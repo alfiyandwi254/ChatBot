@@ -1,7 +1,7 @@
 # ChatBot
 This is some pict of my project build Chatbot with Copilot in Power Platform. 
 But it's still on going (on development), cause Im waiting for the knowledge to use in the Chatbot.
-To access the Chatbot, Im using Microsoft Teams.
+To access the Chatbot, we are using Microsoft Teams.
 
 
 ![image](https://github.com/user-attachments/assets/1a46ee01-eb5c-4a00-8565-341d19ed48d4)
